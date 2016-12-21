@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Statistic.setValue(Any?, forKey : String) -&gt; ():Ticker.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "value!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Statistic.init(fromJSON : [String : Any]) -&gt; Statistic:Statistic.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "buy_price">
+            </PersistentString>
+            <PersistentString
+               value = "dictionary[&quot;avg&quot;] as String">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Statistic.init(fromJSON : JSON) -&gt; Statistic:Statistic.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json[&quot;updated&quot;].number">
+            </PersistentString>
+            <PersistentString
+               value = "json[&quot;updated&quot;].dateTime">
+            </PersistentString>
+            <PersistentString
+               value = "json">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
